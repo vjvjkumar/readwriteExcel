@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46878" started-at="2016-05-23T12:54:53Z" finished-at="2016-05-23T12:55:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46878" started-at="2016-05-23T12:54:53Z" finished-at="2016-05-23T12:55:40Z">
+      <class name="Pack1.RediffLogin">
+        <test-method status="PASS" signature="RediffLoginXLSreader()[pri:0, instance:Pack1.RediffLogin@2fc14f68]" name="RediffLoginXLSreader" duration-ms="46768" started-at="2016-05-23T13:54:53Z" finished-at="2016-05-23T13:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RediffLoginXLSreader -->
+      </class> <!-- Pack1.RediffLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
